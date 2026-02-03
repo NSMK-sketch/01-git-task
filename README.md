@@ -19,6 +19,17 @@ git-task
 <<<<<<< HEAD
 <<<<<<< HEAD
 [СказОчка от Хана](https://otvet.mail.ru/question/80570108)
+
+
+
+[Тихонова](https://img.freepik.com/free-psd/beautiful-cat-portrait-isolated_23-2150186159.jpg?semt=ais_hybrid&w=740&q=80)
+<<<<<<< HEAD
+[Сидиков](https://www.bing.com/search?safe=strict&qs=UT&pq=%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0+%D1%82%D1%80%D0%B8+%D0%B1&sk=CSYN1&sc=13-12&pglt=131&q=%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0+%D1%82%D1%80%D0%B8+%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8F&cvid=6077c903633c429eafc6dc72f3b66517&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkxNjMwMWowajGoAgCwAgA&FORM=ANNTA1&PC=EDGEDSE)
+
+[Кучкаров](name/gitdesktop/Кучкаров.txt)
+[Монгуш Айкыс](https://github.com/NSMK-sketch/01-git-task)
+[Куулар Кудер](name/gitdesktop/Куулар.txt)
+
 Сказка
 ---
 <<<<<<< HEAD
@@ -30,34 +41,17 @@ git-task
 во исполнение требований законодательства Российской Федерации:(Хан)
 =======
 Жил да был программист- Дальше он померОн открыл GitHub Desktop и сделал свой первый коммит. Это было начало его пути в программировании.
-=======
-=======
->>>>>>> d3ffedbbbe47ac723163130f22b0341d86b514b1
-
-[Тихонова](https://img.freepik.com/free-psd/beautiful-cat-portrait-isolated_23-2150186159.jpg?semt=ais_hybrid&w=740&q=80)
-<<<<<<< HEAD
-[Сидиков](https://www.bing.com/search?safe=strict&qs=UT&pq=%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0+%D1%82%D1%80%D0%B8+%D0%B1&sk=CSYN1&sc=13-12&pglt=131&q=%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0+%D1%82%D1%80%D0%B8+%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8F&cvid=6077c903633c429eafc6dc72f3b66517&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkxNjMwMWowajGoAgCwAgA&FORM=ANNTA1&PC=EDGEDSE)
-=======
-=======
-
-[Кучкаров](name/gitdesktop/Кучкаров.txt)
-сказка 
-волк сьел красную шаопчку
->>>>>>> b3eb45b592a838af6879681a1b05c5cb716bc99f
+Три богатырей 
 
 Сказка
 ---
 Жил да был программист- Дальше он помер вот так как то
 Был у него кот.
 <<<<<<< HEAD
->>>>>>> 423b8c01817374bd4c41ecdaf59e69db32f421f0
-=======
-=======
-[Монгуш Айкыс](https://github.com/NSMK-sketch/01-git-task)
+
+
 Сказка
 ---
 Жил да был программист- Дальше он помер вот так как то
 Монгуш АйМонгуш АйМонгуш АйМонгуш АйМонгуш АйМонгуш АйМонгуш Ай, Куллар красавчик
->>>>>>> 8d5246589684aca3140af20aed1e6d726ac3c64b
->>>>>>> d3ffedbbbe47ac723163130f22b0341d86b514b1
-[Куулар Кудер](name/gitdesktop/Куулар.txt)
+
