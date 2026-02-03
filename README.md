@@ -32,6 +32,7 @@ git-task
 =======
 
 [Тихонова](https://img.freepik.com/free-psd/beautiful-cat-portrait-isolated_23-2150186159.jpg?semt=ais_hybrid&w=740&q=80)
+[Сидиков](https://www.bing.com/search?safe=strict&qs=UT&pq=%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0+%D1%82%D1%80%D0%B8+%D0%B1&sk=CSYN1&sc=13-12&pglt=131&q=%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0+%D1%82%D1%80%D0%B8+%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8F&cvid=6077c903633c429eafc6dc72f3b66517&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkxNjMwMWowajGoAgCwAgA&FORM=ANNTA1&PC=EDGEDSE)
 
 Сказка
 ---
