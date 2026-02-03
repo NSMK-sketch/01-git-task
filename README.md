@@ -9,7 +9,7 @@ git-task
 5. Сделайте commit-pull-push
 6. Допишите в разделе Сказка пару предложений истории.
 7. Сделайте commit-pull-push
-
+[лАПУЦКИЙ ССЫЛКА](http://putin.kremlin.ru/bio/page-0)
 
 Ссылки на ваши файлы
 
