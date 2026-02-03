@@ -16,6 +16,7 @@ git-task
 Ссылки на ваши файлы
 [Андрей Челядинов](name/gitdesktop/Челядинов.txt)
  [Никита Белогубов](names/nbelogubov.txt)
+<<<<<<< HEAD
 
 [Тихонова](https://img.freepik.com/free-psd/beautiful-cat-portrait-isolated_23-2150186159.jpg?semt=ais_hybrid&w=740&q=80)
 [Кучкаров](name/gitdesktop/Кучкаров.txt)
@@ -23,3 +24,10 @@ git-task
 ---
 Жил да был программист- Дальше он помер вот так как то
 Был у него кот.
+=======
+[Монгуш Айкыс](https://github.com/NSMK-sketch/01-git-task)
+Сказка
+---
+Жил да был программист- Дальше он помер вот так как то
+Монгуш АйМонгуш АйМонгуш АйМонгуш АйМонгуш АйМонгуш АйМонгуш Ай
+>>>>>>> 8d5246589684aca3140af20aed1e6d726ac3c64b
