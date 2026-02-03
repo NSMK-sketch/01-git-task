@@ -20,6 +20,9 @@ git-task
 
 [Тихонова](https://img.freepik.com/free-psd/beautiful-cat-portrait-isolated_23-2150186159.jpg?semt=ais_hybrid&w=740&q=80)
 [Кучкаров](name/gitdesktop/Кучкаров.txt)
+сказка 
+волк сьел красную шаопчку
+
 Сказка
 ---
 Жил да был программист- Дальше он помер вот так как то
