@@ -11,7 +11,7 @@ git-task
 
 
 Ссылки на ваши файлы
-
+[Андрей Челядинов] (name/gitdesktop/Челядинов.txt)
  [Никита Белогубов](names/nbelogubov.txt)
 Сказка
 ---
