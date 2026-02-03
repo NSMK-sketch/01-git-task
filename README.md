@@ -29,6 +29,7 @@ git-task
 [Кучкаров](name/gitdesktop/Кучкаров.txt)
 [Монгуш Айкыс](https://github.com/NSMK-sketch/01-git-task)
 [Куулар Кудер](name/gitdesktop/Куулар.txt)
+[Пермяков](https://github.com/NSMK-sketch/name/Пермяков.txt)
 
 Сказка
 ---
