@@ -35,6 +35,8 @@ git-task
 >>>>>>> d3ffedbbbe47ac723163130f22b0341d86b514b1
 
 [Тихонова](https://img.freepik.com/free-psd/beautiful-cat-portrait-isolated_23-2150186159.jpg?semt=ais_hybrid&w=740&q=80)
+=======
+
 [Кучкаров](name/gitdesktop/Кучкаров.txt)
 сказка 
 волк сьел красную шаопчку
